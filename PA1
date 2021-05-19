@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-19T19:00:46.697Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="jty6rPf45FPa26uuIhDP" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-19T19:39:12.145Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="QrHY-XNwZO7bAY5Kkh6T" version="14.6.13" type="github">
   <diagram id="qIAkXcJCo1ZxxsSznQXA" name="Page-1">
     <mxGraphModel dx="771" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,12 +13,13 @@
         <mxCell id="pMm0vgGciPVGT57xsv47-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pMm0vgGciPVGT57xsv47-2" target="pMm0vgGciPVGT57xsv47-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pMm0vgGciPVGT57xsv47-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pMm0vgGciPVGT57xsv47-2">
+        <mxCell id="pMm0vgGciPVGT57xsv47-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pMm0vgGciPVGT57xsv47-4" target="pMm0vgGciPVGT57xsv47-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="448" y="380" as="targetPoint" />
+            <mxPoint x="350" y="480" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="540" y="160" />
-              <mxPoint x="540" y="380" />
+              <mxPoint x="540" y="260" />
+              <mxPoint x="540" y="430" />
+              <mxPoint x="280" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -28,7 +29,7 @@
         <mxCell id="pMm0vgGciPVGT57xsv47-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pMm0vgGciPVGT57xsv47-4" target="pMm0vgGciPVGT57xsv47-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pMm0vgGciPVGT57xsv47-4" value="PARA CONTADOR DE 1 ATÉ 100 FAÇA PASSO 1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pMm0vgGciPVGT57xsv47-4" value="&lt;b&gt;PARA&lt;/b&gt; CONTADOR DE 1 ATÉ 100 &lt;b&gt;FAÇA&lt;/b&gt; PASSO 1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="85" y="220" width="390" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pMm0vgGciPVGT57xsv47-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.433;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pMm0vgGciPVGT57xsv47-6" target="pMm0vgGciPVGT57xsv47-8">
@@ -48,6 +49,15 @@
         </mxCell>
         <mxCell id="pMm0vgGciPVGT57xsv47-9" value="FIM" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="228" y="550" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="pMm0vgGciPVGT57xsv47-14" value="SIM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="300" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pMm0vgGciPVGT57xsv47-15" value="NÃO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="475" y="240" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pMm0vgGciPVGT57xsv47-16" value="Função (método) Somar_numeros&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;INICIO&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;SOMA_NUMEROS: INTEIRO&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;SOMAR_NUMERO=0&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;PARA CONTADOR DE 1 ATÉ 100 FAÇA PASSO 1&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;SOMA_NUMEROS=SOMA_NUMEROS + CONTADOR&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;FIM_PARA&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;ESCREVA(&quot;A soma dos números de 1 a 100 é&quot;, SOMA_NUMEROS)&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;FIM&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="10" width="230" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
