@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-19T19:39:12.145Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="QrHY-XNwZO7bAY5Kkh6T" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-19T21:57:38.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Xr-u82u5SIL5TPS4qjCI" version="14.6.13" type="github">
   <diagram id="qIAkXcJCo1ZxxsSznQXA" name="Page-1">
-    <mxGraphModel dx="771" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="766" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
         <mxCell id="pMm0vgGciPVGT57xsv47-15" value="NÃO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="475" y="240" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pMm0vgGciPVGT57xsv47-16" value="Função (método) Somar_numeros&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;INICIO&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;SOMA_NUMEROS: INTEIRO&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;SOMAR_NUMERO=0&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;PARA CONTADOR DE 1 ATÉ 100 FAÇA PASSO 1&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;SOMA_NUMEROS=SOMA_NUMEROS + CONTADOR&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;FIM_PARA&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;ESCREVA(&quot;A soma dos números de 1 a 100 é&quot;, SOMA_NUMEROS)&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;FIM&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pMm0vgGciPVGT57xsv47-16" value="Função (método) Soma_numeros&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;INICIO&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;SOMA_NUMEROS: INTEIRO&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;SOMA_NUMERO=0&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;PARA CONTADOR DE 1 ATÉ 100 FAÇA PASSO 1&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;SOMA_NUMEROS=SOMA_NUMEROS + CONTADOR&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;FIM_PARA&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;ESCREVA(&quot;A soma dos números de 1 a 100 é&quot;, SOMA_NUMEROS)&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;FIM&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="520" y="10" width="230" height="230" as="geometry" />
         </mxCell>
       </root>
