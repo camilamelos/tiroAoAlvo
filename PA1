@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2021-05-19T18:46:34.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" version="14.6.13" etag="mNkazWiAHfreWw9nuBrd" type="github"><diagram id="qIAkXcJCo1ZxxsSznQXA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-19T19:00:46.697Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="jty6rPf45FPa26uuIhDP" version="14.6.13" type="github">
+  <diagram id="qIAkXcJCo1ZxxsSznQXA" name="Page-1">
+    <mxGraphModel dx="771" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pMm0vgGciPVGT57xsv47-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pMm0vgGciPVGT57xsv47-1" target="pMm0vgGciPVGT57xsv47-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pMm0vgGciPVGT57xsv47-1" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="50" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pMm0vgGciPVGT57xsv47-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pMm0vgGciPVGT57xsv47-2" target="pMm0vgGciPVGT57xsv47-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pMm0vgGciPVGT57xsv47-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pMm0vgGciPVGT57xsv47-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="448" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="160" />
+              <mxPoint x="540" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pMm0vgGciPVGT57xsv47-2" value="SOMA_NUMEROS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pMm0vgGciPVGT57xsv47-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pMm0vgGciPVGT57xsv47-4" target="pMm0vgGciPVGT57xsv47-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pMm0vgGciPVGT57xsv47-4" value="PARA CONTADOR DE 1 ATÉ 100 FAÇA PASSO 1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="220" width="390" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pMm0vgGciPVGT57xsv47-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.433;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pMm0vgGciPVGT57xsv47-6" target="pMm0vgGciPVGT57xsv47-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pMm0vgGciPVGT57xsv47-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pMm0vgGciPVGT57xsv47-6" target="pMm0vgGciPVGT57xsv47-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pMm0vgGciPVGT57xsv47-6" value="SOMA_NUMEROS = SOMA_NUMEROS + CONTADOR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="112.5" y="340" width="335" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pMm0vgGciPVGT57xsv47-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pMm0vgGciPVGT57xsv47-8" target="pMm0vgGciPVGT57xsv47-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pMm0vgGciPVGT57xsv47-8" value="SOMA_NUMEROS" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="228" y="440" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pMm0vgGciPVGT57xsv47-9" value="FIM" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="228" y="550" width="120" height="45" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
