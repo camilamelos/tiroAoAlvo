@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T22:42:10.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="KEC3nuCmdFG163r7frA_" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T22:48:44.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="wrOE9pwwHFs7favxKyL8" version="14.6.13" type="github">
   <diagram id="qIAkXcJCo1ZxxsSznQXA" name="Page-1">
     <mxGraphModel dx="1006" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,11 +24,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="z-ayg1h8bZhYhUjDrqyM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pMm0vgGciPVGT57xsv47-4" target="z-ayg1h8bZhYhUjDrqyM-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pMm0vgGciPVGT57xsv47-4" value="&lt;b&gt;CONTADOR&amp;nbsp; &amp;gt; 10&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="213" y="380" width="135" height="95" as="geometry" />
         </mxCell>
         <mxCell id="pMm0vgGciPVGT57xsv47-9" value="FIM" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="560" width="120" height="45" as="geometry" />
+          <mxGeometry x="225" y="620" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="pMm0vgGciPVGT57xsv47-16" value="Função (método) NUMEROS&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;INICIO&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;NUMEROS: INTEIRO&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;NUMEROS = 0&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;PARA CONTADOR DE 1 ATÉ MENOR OU IGUAL A 10 FAÇA PASSO 1&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;NUMEROS = NUMEROS + CONTADOR&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;FIM_PARA&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;ESCREVA(NÚMEROS)&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;FIM&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="520" y="10" width="230" height="230" as="geometry" />
@@ -115,6 +118,15 @@
         </mxCell>
         <mxCell id="z-ayg1h8bZhYhUjDrqyM-8" value="CONTADOR = CONTADOR +1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="320" width="182.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z-ayg1h8bZhYhUjDrqyM-15" value="SIM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="480" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z-ayg1h8bZhYhUjDrqyM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="z-ayg1h8bZhYhUjDrqyM-16" target="pMm0vgGciPVGT57xsv47-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-ayg1h8bZhYhUjDrqyM-16" value="NUMEROS&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="520" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
