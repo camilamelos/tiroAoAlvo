@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T22:33:20.146Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="3VbNWqDOYqZnZdnnZbYH" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T22:42:10.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="KEC3nuCmdFG163r7frA_" version="14.6.13" type="github">
   <diagram id="qIAkXcJCo1ZxxsSznQXA" name="Page-1">
     <mxGraphModel dx="1006" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,57 +10,31 @@
         <mxCell id="pMm0vgGciPVGT57xsv47-1" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="50" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pMm0vgGciPVGT57xsv47-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pMm0vgGciPVGT57xsv47-2" target="pMm0vgGciPVGT57xsv47-4" edge="1">
+        <mxCell id="z-ayg1h8bZhYhUjDrqyM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pMm0vgGciPVGT57xsv47-2" target="z-ayg1h8bZhYhUjDrqyM-2">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pMm0vgGciPVGT57xsv47-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="pMm0vgGciPVGT57xsv47-4" target="pMm0vgGciPVGT57xsv47-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="480" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="540" y="260" />
-              <mxPoint x="540" y="430" />
-              <mxPoint x="280" y="430" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="pMm0vgGciPVGT57xsv47-2" value="NUMEROS=0" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="140" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pMm0vgGciPVGT57xsv47-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="pMm0vgGciPVGT57xsv47-4" target="pMm0vgGciPVGT57xsv47-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="z-ayg1h8bZhYhUjDrqyM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pMm0vgGciPVGT57xsv47-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="428" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="pMm0vgGciPVGT57xsv47-4" value="&lt;b&gt;PARA&lt;/b&gt; CONTADOR DE 1 ATÉ MENOR OU IGUAL A 10&amp;nbsp;&lt;b&gt;FAÇA&lt;/b&gt; PASSO 1" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="85" y="220" width="445" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="pMm0vgGciPVGT57xsv47-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.433;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="pMm0vgGciPVGT57xsv47-6" target="pMm0vgGciPVGT57xsv47-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pMm0vgGciPVGT57xsv47-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pMm0vgGciPVGT57xsv47-6" target="pMm0vgGciPVGT57xsv47-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pMm0vgGciPVGT57xsv47-6" value="NUMEROS = NUMEROS + CONTADOR" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="112.5" y="340" width="335" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pMm0vgGciPVGT57xsv47-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pMm0vgGciPVGT57xsv47-8" target="pMm0vgGciPVGT57xsv47-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pMm0vgGciPVGT57xsv47-8" value="NUMEROS" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="228" y="440" width="120" height="70" as="geometry" />
+        <mxCell id="pMm0vgGciPVGT57xsv47-4" value="&lt;b&gt;CONTADOR&amp;nbsp; &amp;gt; 10&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="213" y="380" width="135" height="95" as="geometry" />
         </mxCell>
         <mxCell id="pMm0vgGciPVGT57xsv47-9" value="FIM" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="228" y="550" width="120" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="pMm0vgGciPVGT57xsv47-14" value="SIM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="85" y="230" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="pMm0vgGciPVGT57xsv47-15" value="NÃO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="550" y="260" width="40" height="20" as="geometry" />
+          <mxGeometry x="240" y="560" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="pMm0vgGciPVGT57xsv47-16" value="Função (método) NUMEROS&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;INICIO&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;NUMEROS: INTEIRO&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;NUMEROS = 0&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;PARA CONTADOR DE 1 ATÉ MENOR OU IGUAL A 10 FAÇA PASSO 1&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;NUMEROS = NUMEROS + CONTADOR&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;FIM_PARA&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;ESCREVA(NÚMEROS)&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;FIM&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="520" y="10" width="230" height="230" as="geometry" />
         </mxCell>
         <mxCell id="SLwvsg7thbgAdW1bP1Yk-2" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="95" y="640" width="640" height="675" as="geometry" />
+          <mxGeometry x="94" y="730" width="640" height="675" as="geometry" />
         </mxCell>
         <mxCell id="SLwvsg7thbgAdW1bP1Yk-3" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;" parent="SLwvsg7thbgAdW1bP1Yk-2" vertex="1">
           <mxGeometry x="130" width="120" height="50" as="geometry" />
@@ -122,6 +96,25 @@
         </mxCell>
         <mxCell id="SLwvsg7thbgAdW1bP1Yk-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" parent="SLwvsg7thbgAdW1bP1Yk-2" source="SLwvsg7thbgAdW1bP1Yk-15" target="SLwvsg7thbgAdW1bP1Yk-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-ayg1h8bZhYhUjDrqyM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z-ayg1h8bZhYhUjDrqyM-2" target="pMm0vgGciPVGT57xsv47-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z-ayg1h8bZhYhUjDrqyM-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="252.5" y="220" width="55" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z-ayg1h8bZhYhUjDrqyM-7" value="NAO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="172.5" y="440" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z-ayg1h8bZhYhUjDrqyM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z-ayg1h8bZhYhUjDrqyM-8" target="z-ayg1h8bZhYhUjDrqyM-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="121" y="245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z-ayg1h8bZhYhUjDrqyM-8" value="CONTADOR = CONTADOR +1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="320" width="182.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
