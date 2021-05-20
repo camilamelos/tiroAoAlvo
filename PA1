@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T01:11:52.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="LiU4usKt6M3dEOpCipat" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T01:16:53.109Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="LylBxzPfEXdWm0lelAha" version="14.6.13" type="github">
   <diagram id="qIAkXcJCo1ZxxsSznQXA" name="Page-1">
     <mxGraphModel dx="766" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,42 +73,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pMm0vgGciPVGT57xsv47-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="pMm0vgGciPVGT57xsv47-23" target="pMm0vgGciPVGT57xsv47-28" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="355" y="1320" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="545" y="1050" />
-              <mxPoint x="545" y="1270" />
-              <mxPoint x="300" y="1270" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pMm0vgGciPVGT57xsv47-21" value="TABUADA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="215" y="720" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pMm0vgGciPVGT57xsv47-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="pMm0vgGciPVGT57xsv47-23" target="pMm0vgGciPVGT57xsv47-26" edge="1">
+        <mxCell id="BUwBGVBv_6gIQuVRFqCl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pMm0vgGciPVGT57xsv47-23" target="pMm0vgGciPVGT57xsv47-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BUwBGVBv_6gIQuVRFqCl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pMm0vgGciPVGT57xsv47-23" target="pMm0vgGciPVGT57xsv47-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pMm0vgGciPVGT57xsv47-23" value="&lt;b&gt;PARA&lt;/b&gt;&amp;nbsp;INT i = 0&amp;nbsp; MENOR OU IGUAL A 10&amp;nbsp;&lt;b&gt;FAÇA&lt;/b&gt; PASSO 1" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="85" y="1010" width="390" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pMm0vgGciPVGT57xsv47-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.433;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="pMm0vgGciPVGT57xsv47-26" target="pMm0vgGciPVGT57xsv47-28" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pMm0vgGciPVGT57xsv47-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pMm0vgGciPVGT57xsv47-26" target="pMm0vgGciPVGT57xsv47-23" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pMm0vgGciPVGT57xsv47-26" value="NUMEROS = NUMEROS + CONTADOR" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="112.5" y="1160" width="335" height="60" as="geometry" />
+        <mxCell id="pMm0vgGciPVGT57xsv47-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pMm0vgGciPVGT57xsv47-28" target="pMm0vgGciPVGT57xsv47-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="112.5" y="1190" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pMm0vgGciPVGT57xsv47-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pMm0vgGciPVGT57xsv47-28" target="pMm0vgGciPVGT57xsv47-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pMm0vgGciPVGT57xsv47-28" value="ESCREVA &quot;NUMERO + &quot; X&quot; + i + &quot;=&quot; + (NUMERO*i)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="209.5" y="1250" width="157" height="70" as="geometry" />
+          <mxGeometry x="201.5" y="1140" width="157" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pMm0vgGciPVGT57xsv47-29" value="FIM" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="228" y="1370" width="120" height="45" as="geometry" />
+          <mxGeometry x="220" y="1260" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="pMm0vgGciPVGT57xsv47-30" value="SIM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="1070" width="40" height="20" as="geometry" />
@@ -122,8 +111,8 @@
         <mxCell id="pMm0vgGciPVGT57xsv47-32" value="LEIA &quot;DIGITE AQUI UM NUMERO&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="800" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pMm0vgGciPVGT57xsv47-36" value="Função (método) NUMEROS&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;INICIO&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;NUMEROS: INTEIRO&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;NUMEROS = 0&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;PARA CONTADOR DE 1 ATÉ 10 FAÇA PASSO 1&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;NUMEROS = NUMEROS + CONTADOR&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;FIM_PARA&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;ESCREVA(NÚMEROS)&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;FIM&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="500" y="660" width="230" height="230" as="geometry" />
+        <mxCell id="pMm0vgGciPVGT57xsv47-36" value="Função (método) NUMEROS&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;INICIO&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;NUMEROS: INTEIRO&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;ESCREVER &quot;DIGITE UM NUMERO&quot;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;LEIA &quot;NUMERO&quot;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;PARA INTE i = 0 MENOR OU IGUAL A 10 FAÇA PASSO 1&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;ESCREVA &quot;NUMERO + &quot;X&quot; + i+ &quot;=&quot; + (NUMERO*i)&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;FIM_PARA&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;FIM&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="440" y="660" width="260" height="260" as="geometry" />
         </mxCell>
         <mxCell id="BUwBGVBv_6gIQuVRFqCl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BUwBGVBv_6gIQuVRFqCl-3" target="pMm0vgGciPVGT57xsv47-23">
           <mxGeometry relative="1" as="geometry" />
