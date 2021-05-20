@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T01:00:30.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="VXHVytY7b5jeV343ufz4" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T01:03:09.483Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="sXc9OIyQBp_0u9mKhj_F" version="14.6.13" type="github">
   <diagram id="qIAkXcJCo1ZxxsSznQXA" name="Page-1">
     <mxGraphModel dx="766" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,7 +89,7 @@
         <mxCell id="pMm0vgGciPVGT57xsv47-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pMm0vgGciPVGT57xsv47-23" target="pMm0vgGciPVGT57xsv47-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pMm0vgGciPVGT57xsv47-23" value="&lt;b&gt;PARA&lt;/b&gt;&amp;nbsp;IDE 1 ATÉ 10&amp;nbsp;&lt;b&gt;FAÇA&lt;/b&gt; PASSO 1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pMm0vgGciPVGT57xsv47-23" value="&lt;b&gt;PARA&lt;/b&gt;&amp;nbsp;INT i = 0&amp;nbsp; ATÉ 10&amp;nbsp;&lt;b&gt;FAÇA&lt;/b&gt; PASSO 1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="970" width="390" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pMm0vgGciPVGT57xsv47-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.433;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pMm0vgGciPVGT57xsv47-26" target="pMm0vgGciPVGT57xsv47-28">
@@ -115,6 +115,11 @@
         </mxCell>
         <mxCell id="pMm0vgGciPVGT57xsv47-31" value="NÃO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="990" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pMm0vgGciPVGT57xsv47-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pMm0vgGciPVGT57xsv47-32" target="pMm0vgGciPVGT57xsv47-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="960" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pMm0vgGciPVGT57xsv47-32" value="ESCREVA &quot;DIGITE AQUI UM NUMERO&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="800" width="120" height="80" as="geometry" />
