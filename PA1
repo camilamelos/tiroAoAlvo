@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T20:54:12.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="wfBmHvpn0_b1KpO0lFEi" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-09T21:04:42.404Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="7LKT2lwWwMdaIAKeh3ah" version="14.7.6" type="github">
   <diagram id="qIAkXcJCo1ZxxsSznQXA" name="Page-1">
     <mxGraphModel dx="954" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yx307XRt1wpx-o_UbHFt-9" value="Escreva &quot;Bem vindo, &quot;nome&quot;.&lt;br&gt;Digite seu nome ou s para sair&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="335" width="120" height="75" as="geometry" />
+          <mxGeometry x="65" y="335" width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="yx307XRt1wpx-o_UbHFt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yx307XRt1wpx-o_UbHFt-13" target="pMm0vgGciPVGT57xsv47-4">
           <mxGeometry relative="1" as="geometry" />
