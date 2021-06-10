@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T01:02:53.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="MCrFPoj8K2gvqU1HS6l4" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-10T01:04:20.730Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="wXQKGpFXx4xiS1Xv_pFL" version="14.7.6" type="github">
   <diagram id="qIAkXcJCo1ZxxsSznQXA" name="Page-1">
     <mxGraphModel dx="954" dy="745" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
           <mxGeometry x="255" y="220" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yx307XRt1wpx-o_UbHFt-39" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="70" y="675" width="135" height="440" as="geometry" />
+          <mxGeometry x="70" y="675" width="205" height="440" as="geometry" />
         </mxCell>
         <mxCell id="yx307XRt1wpx-o_UbHFt-40" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="yx307XRt1wpx-o_UbHFt-39">
           <mxGeometry x="12.5" width="110" height="40" as="geometry" />
@@ -75,8 +75,8 @@
         <mxCell id="yx307XRt1wpx-o_UbHFt-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="yx307XRt1wpx-o_UbHFt-39" source="yx307XRt1wpx-o_UbHFt-40" target="yx307XRt1wpx-o_UbHFt-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yx307XRt1wpx-o_UbHFt-43" value="&lt;b&gt;Para cont = 0&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="yx307XRt1wpx-o_UbHFt-39">
-          <mxGeometry y="155" width="135" height="95" as="geometry" />
+        <mxCell id="yx307XRt1wpx-o_UbHFt-43" value="&lt;b&gt;Para cont = 0; cont &amp;lt; vezes; cont++&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="yx307XRt1wpx-o_UbHFt-39">
+          <mxGeometry x="-35" y="158" width="205" height="95" as="geometry" />
         </mxCell>
         <mxCell id="yx307XRt1wpx-o_UbHFt-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="yx307XRt1wpx-o_UbHFt-39" source="yx307XRt1wpx-o_UbHFt-41" target="yx307XRt1wpx-o_UbHFt-43">
           <mxGeometry relative="1" as="geometry">
